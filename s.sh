@@ -1,5 +1,5 @@
 #!/bin/bash
 while :
 do
-  echo "哈哈"
+  echo "哈哈嘿嘿"
 done
